@@ -1,4 +1,4 @@
-# xjtfen.github.io
+# Xjtfen.github.io
 
 This is my website. It is divided into two sections: "Personal Website" and "Production Progress". "Personal Website" contains some messy things, very casual; "Production Progress" is somewhat similar to a simple blog, which will be the only OpenBVE production progress display area.
 
